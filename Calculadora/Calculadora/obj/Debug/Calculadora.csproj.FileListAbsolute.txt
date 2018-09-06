@@ -1,0 +1,13 @@
+D:\VisualStudio\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\VisualStudio\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\VisualStudio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\VisualStudio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Calculadora\Calculadora\bin\Debug\Mi Calculadora.exe.config
+D:\VisualStudio\Calculadora\Calculadora\bin\Debug\Mi Calculadora.exe
+D:\VisualStudio\Calculadora\Calculadora\bin\Debug\Mi Calculadora.pdb
+D:\VisualStudio\Calculadora\Calculadora\obj\Debug\Mi Calculadora.exe
+D:\VisualStudio\Calculadora\Calculadora\obj\Debug\Mi Calculadora.pdb
+D:\VisualStudio\Calculadora\Calculadora\bin\Debug\ClassLibrary1.dll
+D:\VisualStudio\Calculadora\Calculadora\bin\Debug\ClassLibrary1.pdb
+D:\VisualStudio\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+D:\VisualStudio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
